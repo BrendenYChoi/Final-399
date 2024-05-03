@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:CA61B70146A3802AD9DDC789FE806219 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:CA61B70146A3802AD9DDC789FE806219 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_1
+----------------------------------------------------------------------------------------------------------------
+Untitled_1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled_1 Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Temp/Untitled_1.Untitled_1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/7/9R/WMWZSHX6WSXS7M19C6SLWY
+
+----------------------------------------------------------------------------------------------------------------
+Untitled_1 - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
